@@ -1,0 +1,21 @@
+.number--css{
+	color: red;
+	text-align: center;
+	margin-top: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+}
+.btn{
+	border: 2px solid #000;
+	padding: 5px;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	transition: 0.5s;
+}
+
+.btn:hover{
+	background-color: red;
+	transform: scale(0.9);
+}
